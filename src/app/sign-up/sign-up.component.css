@@ -1,0 +1,53 @@
+section {
+    display: table;
+  }
+  
+  
+  .example-button-row {
+    display: table-cell;
+    width: 490px;
+  }
+  
+  .example-button-row .mat-button-base {
+    margin: 8px 8px 8px 0;
+  }
+  
+  .example-flex-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  
+  .example-button-container {
+    /* display: flex; */
+    justify-content: center;
+    width: 170px;
+    margin-right: 15px;
+    margin-left: 15px;
+  }
+  .maincard {
+        max-width: 400px;
+        align-self: center;
+        margin-left: 450px;
+      
+  }
+  .button {
+      max-width: 300px;
+  }
+  .submit-button-container {
+    /* display: flex; */
+    justify-content: center;
+    width: 370px;
+    margin-right: 15px;
+    margin-left: 15px;
+    background-color: #2D62ED;
+    
+  }
+  .input {
+    justify-content: center;
+    width: 370px;
+    margin-right: 15px;
+    margin-left: 15px;
+  }
+ 
+ 
